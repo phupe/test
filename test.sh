@@ -42,3 +42,5 @@ echo "Expected number of lines: `wc -l $in`"
 exec 0<&10 10<&-
 
 echo "123"
+echo "123"
+
